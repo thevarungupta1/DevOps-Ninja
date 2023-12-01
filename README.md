@@ -28,7 +28,7 @@ Step 5: Configure tools
 - Maven installations
 - Docker installations
 
-Step 6: Create global crediantial for sonar
+Step 6: Create global crediantial
 
 Step 7: Create a job - pipeline
 
